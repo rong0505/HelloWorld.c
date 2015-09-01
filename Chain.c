@@ -8,7 +8,7 @@ struct chain
 
 struct chain *create();
 //struct chain *inlink(struct chain *,int ,int);
-//struct chain *delink(struct chain *,int);
+////struct chain *delink(struct chain *,int);
 int main()
 {
 	struct chain *p,*head;
